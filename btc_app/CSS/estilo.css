@@ -1,0 +1,57 @@
+body {
+    background-image: url("jan.jpg");
+    background-color: #cccccc;
+}
+
+
+.button {
+    background: none;/*this for transparent button*/
+    border: 3px solid black;/* this is for button border*/
+    padding-left: 5px;
+}
+
+.variacion{
+    background:gray;
+    float: right;
+}
+
+.estable{
+    background:  #95970A;/*this for transparent button*/
+    float: right;
+}
+
+.suba{
+    background: green;/*this for transparent button*/
+    float: right;
+}
+
+.baja{
+    background:  red;/*this for transparent button*/
+    float: right;
+}
+
+
+
+.form{
+    padding-top: 10%;
+    padding-left: 10%;
+}
+        
+#tablaUsuarios {
+    background-color: green;
+    border-color: black;
+    border: 5px;
+}
+
+
+.error{
+    border-color: red;
+}
+
+
+.itsOk{
+    border-color: blue;
+}
+
+
+  
